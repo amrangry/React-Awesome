@@ -195,7 +195,7 @@ React and React Native share a component model but have very different ecosystem
 
 ## Contributing
 
-PRs welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before adding a library.
+PRs welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before adding a library. **AI agents:** follow [DESIGN.md](DESIGN.md) (taxonomy + validation spec).
 
 Rules of thumb:
 
